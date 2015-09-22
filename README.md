@@ -3,4 +3,4 @@
 
 Source: https://ocaml.org/learn/tutorials/99problems.html
 
-As of Sept 22, 2015, 38 of 99 problems are completed.
+As of Sept 22, 2015, 37 of 99 problems are completed.
